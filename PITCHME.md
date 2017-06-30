@@ -1,4 +1,4 @@
-![Aveula Redes](/images/Aveula Redes.jpg)
+---?image=images/Aveula Redes.jpg
 
 # Slide 1
 
