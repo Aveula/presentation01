@@ -2,7 +2,7 @@
 
 Lorem ipsum dolor
 
-+++?transition=convex
++++
 
 ## Slide 1.1
 
