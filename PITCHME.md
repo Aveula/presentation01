@@ -3,6 +3,7 @@
 Lorem ipsum dolor
 
 +++
+<!-- .slide: data-transition="zoom" -->
 
 ## Slide 1.1
 
