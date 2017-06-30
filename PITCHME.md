@@ -1,5 +1,3 @@
----?image=images/Aveula\ Redes.jpg&size=auto 90%
-
 # Slide 1
 
 Lorem ipsum dolor
