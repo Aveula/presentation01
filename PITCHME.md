@@ -1,3 +1,5 @@
+![Aveula Redes](/images/Aveula Redes.jpg)
+
 # Slide 1
 
 Lorem ipsum dolor
@@ -7,6 +9,7 @@ Lorem ipsum dolor
 ## Slide 1.1
 
 Lorem ipsum dolor sit amet
+:skull:
 
 ---
 
