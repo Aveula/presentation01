@@ -9,7 +9,7 @@ Lorem ipsum dolor
 Lorem ipsum dolor sit amet
 :skull:
 
----?transition=covex
+---
 
 #### Slide 2
 
