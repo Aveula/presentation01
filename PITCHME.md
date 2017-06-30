@@ -2,7 +2,7 @@
 
 Lorem ipsum dolor
 
-+++
++++?transition=covex
 
 ## Slide 1.1
 
