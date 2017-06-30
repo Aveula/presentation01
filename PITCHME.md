@@ -1,4 +1,4 @@
----?image=images/Aveula\ Redes.jpg
+---?image=images/Aveula\ Redes.jpg&size=auto 90%
 
 # Slide 1
 
