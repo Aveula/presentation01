@@ -2,14 +2,14 @@
 
 Lorem ipsum dolor
 
-+++?transition=covex
++++
 
 ## Slide 1.1
 
 Lorem ipsum dolor sit amet
 :skull:
 
----
+---?transition=covex
 
 #### Slide 2
 
